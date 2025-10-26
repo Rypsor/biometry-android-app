@@ -1,8 +1,13 @@
 
-Una aplicación de Android que realiza reconocimiento facial en tiempo real utilizando embeddings de FaceNet y una base de datos vectorial en Firestore.
+Por: Samuel Botero Rivera
+    Juan Jose Zapata Moreno
+    Marisol Rodas Osorio
 
-<img src="https://github.com/user-attachments/assets/3a79776c-e5dd-48c3-8b84-6c3eaf32d2f" width="80%"/>
-<img src="https://github.com/user-attachments/assets/2bbdb033-e709-40f1-8326-1634768e5a3c" width="80%"/>
+link del APK: app link: https://drive.google.com/file/d/1P7ll4Y7fUpiqX8Zz4ZYao03gmffNTbl7/view?usp=drive_link
+Link del la visualización de datos: https://docs.google.com/spreadsheets/d/1oNZiEpBWYAzLmBGuj7YLRjzRepV8UllERnq1MSIhQlA/edit?usp=sharing
+
+Una aplicación de Android que realiza reconocimiento facial en tiempo real utilizando embeddings de FaceNet y una base de datos en Firestore.
+
 
 ## Tabla de Contenidos
 1. [Descripción Detallada del Proyecto](#descripción-detallada-del-proyecto)
